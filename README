@@ -1,0 +1,1 @@
+Redmine plugin that adds a css class to the body of all pages if the server environment is 'staging'
